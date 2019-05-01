@@ -8,7 +8,7 @@ namespace GitDemoVS
 {
     class Sample
     {
-        public int add()
+        public int add(int a, int b)
         {
             int x = 10;
             int y = 20;
